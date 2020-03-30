@@ -1,11 +1,13 @@
+package main_package;
+
 import javax.swing.*;
 import java.awt.*;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-import static lab14.BouncingBallsFrame.screenWidth;
-import static lab14.BouncingBallsFrame.screenHeight;
+import static main_package.BouncingBallsFrame.screenWidth;
+import static main_package.BouncingBallsFrame.screenHeight;
 
 public class BouncingBallsPanel extends JPanel {
 
